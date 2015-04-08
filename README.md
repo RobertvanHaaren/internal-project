@@ -1,1 +1,15 @@
-# Super Secret internal Projects (SSIP)
+(SSIP)
+
+## How to get started
+blablablabla
+:wq
+
+
+
+
+
+
+:qw
+
+:quit
+
