@@ -1,0 +1,3 @@
+[submodule "docs-internal-project"]
+	path = docs-internal-project
+	url = https://github.com/RobertvanHaaren/docs-internal-project.git
